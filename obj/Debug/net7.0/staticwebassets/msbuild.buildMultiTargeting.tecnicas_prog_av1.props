@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\tecnicas_prog_av1.props" />
+</Project>

@@ -1,0 +1,58 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #07075b;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  color: white;
+  background: -webkit-gradient(linear, left top, left bottom, from(#00003a), to(#1b1ba9));
+  background: -moz-linear-gradient(top, #00003a, #1b1ba9);
+  filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#00005C', EndColorStr='#0c0c79');
+}
+
+#img1 {
+  height: 500px;
+  width: 600px;
+}
+
+#img1:hover{
+  transform: scale(1.15);
+  transition: 0.5s;
+}
+
+#img2 {
+  height: 100px;
+  width: 100px;
+}
+
+#img2 {
+  height: 100px;
+  width: 100px;
+}
+
+#img2:hover{
+  transform: scale(1.15);
+  transition: 0.5s;
+}
+
+
+.areas{
+  justify-content: space-around;
+  text-align: center;
+  align-content: center;
+}

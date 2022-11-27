@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\tecnicas_prog_av1.props" />
+</Project>
