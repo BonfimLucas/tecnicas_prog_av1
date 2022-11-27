@@ -15,3 +15,6 @@
 #
 
 <h4>RESULTADO: </h4>
+<div align='center'>
+<img src="https://i.imgur.com/XgJDZcb.png" max-width="350px" width="350px" alt="atividade">
+</div
